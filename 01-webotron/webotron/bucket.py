@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Claases for s3 bucket."""
+"""Classes for s3 bucket."""
 import mimetypes
 from pathlib import Path
 from botocore.exceptions import ClientError
